@@ -3,8 +3,6 @@
 <div align="center">
 
 [![Yakuake](https://img.shields.io/badge/Yakuake-Dropdown%20Terminal-blue?style=for-the-badge&logo=kde)](https://kde.org/applications/system/org.kde.yakuake)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green?style=for-the-badge)](LICENSE)
-[![KDE](https://img.shields.io/badge/Powered%20by-KDE%20Konsole-31a4c4?style=for-the-badge)](https://konsole.kde.org/)
 
 *A comprehensive, community-maintained configuration guide for Yakuake users*
 
